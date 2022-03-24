@@ -1,0 +1,8 @@
+<h1>CELULARES EM ESTOQUE</h1>
+{{#each cellPhones}}
+  <div>
+    <h3>{{this.model}}</h3>
+    <p>{{this.brand}}</p>
+    <p><a href="/cellPhone/{{this.id}}">Ver detalhes</a></p>
+  </div>
+{{/each}}

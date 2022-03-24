@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/background.jpg");
+    color: rgb(0, 255, 0);
+    padding: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h3 {
+    color: rgb(218, 165, 32);
+}
+
+a {
+    color: #e2c3c3;
+}
+
+footer {
+    color: rgb(245, 240, 223);
+}
