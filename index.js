@@ -7,7 +7,6 @@ app.engine("handlebars", exphbs());
 app.set("view engine", "handlebars");
 
 app.use(express.static("public"));
-// esta variável abaixo, simula como se fosse um banco de dados de funcionários
 const cellPhones = [{
         id: "1",
         model: "M32",
